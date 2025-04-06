@@ -1,3 +1,3 @@
-- 👋 Hi, this is git's account for CAesar
+- 👋 Hi, this is GitHub's account for CAesar
 -  👀 I’m interested in technology and developing my abilities
 - 🌱 I’m currently learning, with Link Academy, Python
