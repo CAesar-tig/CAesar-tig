@@ -1,3 +1,3 @@
 - 👋 Hi, this is GitHub's account for CAesar
 -  👀 I’m interested in technology and developing my abilities
-- 🌱 I’m currently learning, with Link Academy, Python
+- 🌱 I’m currently learning Python, with Link Academy
